@@ -8,5 +8,7 @@ The purpose of this project is to examine the relationships between watering met
 # Results
 We were able to analyze and present key findings of the ABS Vineyard Census, particularly for associations between watering sources/methods and total vineyard yield. We were further able to visualise trends on a range of wine characteristics of interest, including wine type, variety, and region of origin. Tableau software in particular was helpful in visualising the geographical elements associated with the dataset, including total vineyard yield for each region.
 
+Vineyard yield had an average prediction error of 19.37 (t/ha). Given that most regional yields range from 8 and 82 (t/ha), this error level may or may not be considered adequate for business decision-making. Nevertheless, this result is quite good given that we have relied exclusively on watering sources/methods as predictors.
+
 # Conclusion
 Overall, findings suggest that choice of watering methods/sources play a key role in vineyard yield, which has implications for vineyard managers who seek to maximize grape production. However, a couple of caveats must be noted. Firstly, increased profits (though higher vineyard yield) may not be offset by the increased cost in adopting more sophisticated watering sources/methods. Secondly, we cannot conclude that higher use of these watering sources/methods causes higher vineyard yield; further research could elucidate mechanisms by which these features promote vineyard yield, which may instil greater confidence in the model proposed here.
